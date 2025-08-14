@@ -1,0 +1,54 @@
+player-names {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+  margin-bottom: 10px;
+  
+}
+.dice-inline {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+  margin-bottom: 30px;
+}
+.dice-inline img {
+  width: 300px;
+  height: 300px;
+}
+h1 {
+  margin-bottom: 30px;
+  color:#4ecca3;
+}
+.player-names {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+  margin-bottom: 10px;
+}
+body{
+  background-color:#042f4b;
+  font-family:"Lobster", cursive;
+  text-align:center;
+  color: #4ecca3;
+  padding: 25px;
+  
+}
+
+button {
+  padding: 12px 24px;
+  font-size: 18px;
+  background-color:chocolate;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+button:hover {
+  background-color:black
+}
+
+#result {
+  margin-top: 20px;
+  font-size: 24px;
+  color:#4ecca3
+}
